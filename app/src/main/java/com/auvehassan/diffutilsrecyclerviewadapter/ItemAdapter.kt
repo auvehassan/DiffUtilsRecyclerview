@@ -12,7 +12,7 @@ class ItemAdapter : RecyclerView.Adapter<ItemAdapter.ViewHolder>() {
     private var list = emptyList<Item>()
 
     fun setItems(items: List<Item>) {
-        val diffCallback = CustomDiffUtils(list, items)
+        val diffCallback = DiffUtils(list, items)
         val diffResult = DiffUtil.calculateDiff(diffCallback)
         this.list = items
         diffResult.dispatchUpdatesTo(this)

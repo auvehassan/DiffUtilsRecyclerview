@@ -2,7 +2,7 @@ package com.auvehassan.diffutilsrecyclerviewadapter
 
 import androidx.recyclerview.widget.DiffUtil
 
-class CustomDiffUtils<T>(
+class DiffUtils<T>(
     private val oldList: List<T>,
     private val newList: List<T>
 ) : DiffUtil.Callback() {
