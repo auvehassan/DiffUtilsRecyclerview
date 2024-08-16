@@ -1,6 +1,6 @@
 {
     "version": 101010, 
-    [
+   "server": [
     {
         "category": "MEDIA",
         "description": null,
