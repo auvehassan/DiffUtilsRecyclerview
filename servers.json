@@ -38,6 +38,18 @@
         "url": "http://dflix.live/"
     },
     {
+        "category": "WEBTV",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "serverbd247",
+        "server": null,
+        "serverId": 4,
+        "testCode": -2,
+        "url": "https://bdixtv.serverbd247.com/"
+    },
+    {
         "category": "MEDIA",
         "description": null,
         "icon": "",
