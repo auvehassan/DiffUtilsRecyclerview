@@ -794,6 +794,18 @@
         "url": "http://www.movieserver.net"
     },
     {
+        "category": "FTP",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "",
+        "server": null,
+        "serverId": 68,
+        "testCode": -2,
+        "url": "http://cdn.timenai.com/"
+    },
+    {
         "category": "MEDIA",
         "description": null,
         "icon": "",
