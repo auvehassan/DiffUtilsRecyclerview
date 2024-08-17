@@ -7,11 +7,11 @@
         "icon": "http://bdplex.net/images/logo.png",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "bdplex",
+        "name": "bdplex test",
         "server": null,
         "serverId": 1,
         "testCode": -1,
-        "url": "http://bdplex.ne"
+        "url": "http://bdplex.net"
     },
     {
         "category": "MEDIA",
