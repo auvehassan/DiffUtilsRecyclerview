@@ -3564,6 +3564,18 @@
         "serverId": 302,
         "testCode": -2,
         "url": "http://skyviewonlineltd.com"
+    },
+    {
+        "category": "MEDIA",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "mybdplex",
+        "server": null,
+        "serverId": 303,
+        "testCode": -2,
+        "url": "http://mybdplex.com/"
     }
     ]
 }
