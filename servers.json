@@ -919,6 +919,18 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
+        "name": "Timenai EMBY",
+        "server": null,
+        "serverId": 78,
+        "testCode": -2,
+        "url": "http://play.timenai.com/web/#!/startup/login.html?serverId=0676f28738da4313af1e8fee0b02a3bf"
+    },
+    {
+        "category": "MEDIA",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
         "name": "xmovies8",
         "server": null,
         "serverId": 79,
