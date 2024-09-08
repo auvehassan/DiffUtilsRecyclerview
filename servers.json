@@ -1,5 +1,5 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "server": [
     {
         "category": "MEDIA",
@@ -3204,18 +3204,6 @@
         "serverId": 271,
         "testCode": -2,
         "url": "https://allserver.yolasite.com/"
-    },
-    {
-        "category": "FTP",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Alif Network",
-        "server": null,
-        "serverId": 272,
-        "testCode": -2,
-        "url": "https://alifanet.com/"
     },
     {
         "category": "MEDIA",
