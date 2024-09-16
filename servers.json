@@ -225,9 +225,9 @@
         "mostViewCount": 0,
         "name": "Movie Server",
         "server": null,
-        "serverId": 25,
+        "serverId": 67,
         "testCode": -2,
-        "url": "http://103.70.140.14/"
+        "url": "http://www.movieserver.net"
     },
     {
         "category": "MEDIA",
