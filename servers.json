@@ -1,5 +1,5 @@
 {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "server": [
     {
         "category": "MEDIA",
@@ -48,18 +48,6 @@
         "serverId": 4,
         "testCode": -2,
         "url": "https://bdixtv.serverbd247.com/"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "BD Speed",
-        "server": null,
-        "serverId": 5,
-        "testCode": -2,
-        "url": "http://www.bdspeed.com/"
     },
     {
         "category": "MEDIA",
@@ -124,18 +112,6 @@
     {
         "category": "MEDIA",
         "description": null,
-        "icon": "http://dhakaflix.net/images/bijoyonline.jpg",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "dhakaflix",
-        "server": null,
-        "serverId": 11,
-        "testCode": -2,
-        "url": "http://dhakaflix.net/"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
         "icon": "https://i.ytimg.com/vi/VcvWx-HcJN8/maxresdefault_live.jpg",
         "isFavorite": false,
         "mostViewCount": 0,
@@ -187,18 +163,6 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "BD Flix Live",
-        "server": null,
-        "serverId": 16,
-        "testCode": -2,
-        "url": "https://bdflixlive.com/"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
         "name": "Flix Jar",
         "server": null,
         "serverId": 17,
@@ -216,18 +180,6 @@
         "serverId": 18,
         "testCode": -2,
         "url": "http://lalbatte.net/"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Salt Sync",
-        "server": null,
-        "serverId": 19,
-        "testCode": -2,
-        "url": "http://kaat.pw/"
     },
     {
         "category": "MEDIA",
@@ -268,18 +220,6 @@
     {
         "category": "MEDIA",
         "description": null,
-        "icon": "http://anthousebd.net/images/logo1.png",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Ant House BD",
-        "server": null,
-        "serverId": 23,
-        "testCode": -2,
-        "url": "http://anthousebd.net"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
@@ -288,18 +228,6 @@
         "serverId": 25,
         "testCode": -2,
         "url": "http://103.70.140.14/"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "http://bdspeed.com/img/logo.png",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "bdspeed",
-        "server": null,
-        "serverId": 26,
-        "testCode": -2,
-        "url": "http://bdspeed.com/"
     },
     {
         "category": "MEDIA",
@@ -372,18 +300,6 @@
         "serverId": 32,
         "testCode": -2,
         "url": "https://11plus.live/"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Ats-bd",
-        "server": null,
-        "serverId": 33,
-        "testCode": -2,
-        "url": "http://fs.ats-bd.net"
     },
     {
         "category": "MEDIA",
@@ -475,18 +391,6 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "Dekh vhai",
-        "server": null,
-        "serverId": 41,
-        "testCode": -2,
-        "url": "http://dekhvhai.com"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
         "name": "dhakaftp",
         "server": null,
         "serverId": 42,
@@ -535,18 +439,6 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "Digbazi",
-        "server": null,
-        "serverId": 46,
-        "testCode": -2,
-        "url": "http://digbazi.net"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
         "name": "Dnet drive",
         "server": null,
         "serverId": 47,
@@ -571,47 +463,11 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "fmovies",
-        "server": null,
-        "serverId": 49,
-        "testCode": -2,
-        "url": "https://www6.fmovies.se"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Satrong",
-        "server": null,
-        "serverId": 50,
-        "testCode": -2,
-        "url": "http://satrong.fissabd.com"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
         "name": "Fun Time BD",
         "server": null,
         "serverId": 51,
         "testCode": -2,
         "url": "http://www.ftpbd.com"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Filmraja",
-        "server": null,
-        "serverId": 52,
-        "testCode": -2,
-        "url": "http://filmraja.com"
     },
     {
         "category": "MEDIA",
@@ -667,35 +523,11 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "Load Baba",
-        "server": null,
-        "serverId": 57,
-        "testCode": -2,
-        "url": "http://loadbaba.com"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
         "name": "MLS BD",
         "server": null,
         "serverId": 58,
         "testCode": -2,
         "url": "https://www.mlsbd.co/"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "MLW BD",
-        "server": null,
-        "serverId": 59,
-        "testCode": -2,
-        "url": "https://mlwbd.info/"
     },
     {
         "category": "MEDIA",
@@ -739,18 +571,6 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "MovPly",
-        "server": null,
-        "serverId": 63,
-        "testCode": -2,
-        "url": "http://plygig.com/"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
         "name": "59.152.96.75",
         "server": null,
         "serverId": 64,
@@ -768,18 +588,6 @@
         "serverId": 65,
         "testCode": -2,
         "url": "http://www.moviemela.live"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "movieboxbd",
-        "server": null,
-        "serverId": 66,
-        "testCode": -2,
-        "url": "http://movieboxbd.com/"
     },
     {
         "category": "MEDIA",
@@ -864,18 +672,6 @@
         "serverId": 73,
         "testCode": -2,
         "url": "http://smileplex.net:8096/web/home.html"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "southfreak",
-        "server": null,
-        "serverId": 74,
-        "testCode": -2,
-        "url": "https://southfreak.site/"
     },
     {
         "category": "MEDIA",
@@ -1195,35 +991,11 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "BD Broadband",
-        "server": null,
-        "serverId": 101,
-        "testCode": -2,
-        "url": "http://www.bdbroadband.com/ftp"
-    },
-    {
-        "category": "FTP",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
         "name": "B Net",
         "server": null,
         "serverId": 102,
         "testCode": -2,
         "url": "http://103.58.73.13"
-    },
-    {
-        "category": "FTP",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Ats-bd",
-        "server": null,
-        "serverId": 103,
-        "testCode": -2,
-        "url": "http://fs.ats-bd.net/ftp"
     },
     {
         "category": "FTP",
@@ -1387,18 +1159,6 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "movieboxbd",
-        "server": null,
-        "serverId": 117,
-        "testCode": -2,
-        "url": "http://db1.movieboxbd.com/RDMS/"
-    },
-    {
-        "category": "FTP",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
         "name": "172.16.50.6",
         "server": null,
         "serverId": 118,
@@ -1416,18 +1176,6 @@
         "serverId": 119,
         "testCode": -2,
         "url": "http://45.250.20.19"
-    },
-    {
-        "category": "WEBTV",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Watch live all",
-        "server": null,
-        "serverId": 120,
-        "testCode": -2,
-        "url": "http://watchliveall.com"
     },
     {
         "category": "WEBTV",
@@ -1483,18 +1231,6 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "Rangdhanu HDTV",
-        "server": null,
-        "serverId": 125,
-        "testCode": -2,
-        "url": "https://hdtv.rangdhanu.live/"
-    },
-    {
-        "category": "WEBTV",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
         "name": "Bdixtv live",
         "server": null,
         "serverId": 127,
@@ -1524,18 +1260,6 @@
         "serverId": 129,
         "testCode": -2,
         "url": "http://www.ftpbd.net/online-tv/"
-    },
-    {
-        "category": "WEBTV",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Yamgoo",
-        "server": null,
-        "serverId": 130,
-        "testCode": -2,
-        "url": "http://yamgo.com"
     },
     {
         "category": "WEBTV",
@@ -1663,18 +1387,6 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "Starflix bd",
-        "server": null,
-        "serverId": 141,
-        "testCode": -2,
-        "url": "http://starflixbd.com"
-    },
-    {
-        "category": "WEBTV",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
         "name": "Boss BD",
         "server": null,
         "serverId": 142,
@@ -1716,18 +1428,6 @@
         "serverId": 145,
         "testCode": -2,
         "url": "http://www.bdiptv.com"
-    },
-    {
-        "category": "WEBTV",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "tvbd",
-        "server": null,
-        "serverId": 146,
-        "testCode": -2,
-        "url": "http://tvbd.live"
     },
     {
         "category": "WEBTV",
@@ -1843,18 +1543,6 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "Mirpur Online",
-        "server": null,
-        "serverId": 157,
-        "testCode": -2,
-        "url": "http://livetv.mirpur.online/"
-    },
-    {
-        "category": "WEBTV",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
         "name": "Ak livetv",
         "server": null,
         "serverId": 158,
@@ -1915,18 +1603,6 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "satrong tv",
-        "server": null,
-        "serverId": 163,
-        "testCode": -2,
-        "url": "http://tv.satrong.live/"
-    },
-    {
-        "category": "WEBTV",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
         "name": "Zero 4 anytime",
         "server": null,
         "serverId": 164,
@@ -1956,18 +1632,6 @@
         "serverId": 166,
         "testCode": -2,
         "url": "http://icc.smiledotnet.xyz/"
-    },
-    {
-        "category": "WEBTV",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "iBox bd live",
-        "server": null,
-        "serverId": 167,
-        "testCode": -2,
-        "url": "http://iboxbd.live/"
     },
     {
         "category": "WEBTV",
@@ -2076,18 +1740,6 @@
         "serverId": 176,
         "testCode": -2,
         "url": "http://banglaflix.com.bd"
-    },
-    {
-        "category": "WEBTV",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Gundapanda",
-        "server": null,
-        "serverId": 177,
-        "testCode": -2,
-        "url": "http://gundapanda.com"
     },
     {
         "category": "MEDIA",
@@ -2522,18 +2174,6 @@
         "url": "http://www.nagordola.com.bd"
     },
     {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Unique",
-        "server": null,
-        "serverId": 215,
-        "testCode": -2,
-        "url": "http://www.uniquedownloadbd.com/"
-    },
-    {
         "category": "FTP",
         "description": null,
         "icon": "",
@@ -2673,18 +2313,6 @@
         "mostViewCount": 0,
         "name": "cloudone",
         "server": null,
-        "serverId": 227,
-        "testCode": -2,
-        "url": "http://bdmovies.net"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "cloudone",
-        "server": null,
         "serverId": 228,
         "testCode": -2,
         "url": "http://www.c1movies.com/"
@@ -2796,18 +2424,6 @@
         "serverId": 237,
         "testCode": -2,
         "url": "http://172.22.22.101/home/"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "sunplex",
-        "server": null,
-        "serverId": 238,
-        "testCode": -2,
-        "url": "https://sunplex.net/"
     },
     {
         "category": "MEDIA",
@@ -3074,18 +2690,6 @@
         "url": "http://tetraplex.net.bd/"
     },
     {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "globalcommunicationbd",
-        "server": null,
-        "serverId": 261,
-        "testCode": -2,
-        "url": "http://globalcommunicationbd.com/"
-    },
-    {
         "category": "FTP",
         "description": null,
         "icon": "",
@@ -3134,18 +2738,6 @@
         "url": "http://abcflixbd.com/"
     },
     {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "abcmovies bd",
-        "server": null,
-        "serverId": 266,
-        "testCode": -2,
-        "url": "http://abcmoviesbd.com/"
-    },
-    {
         "category": "FTP",
         "description": null,
         "icon": "",
@@ -3156,18 +2748,6 @@
         "serverId": 267,
         "testCode": -2,
         "url": "http://103.103.239.66/"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "alphabroadway",
-        "server": null,
-        "serverId": 268,
-        "testCode": -2,
-        "url": "http://www.alphabroadway.com/"
     },
     {
         "category": "FTP",
@@ -3355,35 +2935,11 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "bangla news express",
-        "server": null,
-        "serverId": 286,
-        "testCode": -2,
-        "url": "https://www.banglanewsexpress.com/"
-    },
-    {
-        "category": "FTP",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
         "name": "mangogamers",
         "server": null,
         "serverId": 287,
         "testCode": -2,
         "url": "https://mangogamers.com/"
-    },
-    {
-        "category": "FTP",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "sparknetbd",
-        "server": null,
-        "serverId": 288,
-        "testCode": -2,
-        "url": "https://sparknetbd.com/"
     },
     {
         "category": "FTP",
@@ -3403,35 +2959,11 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "sambd",
-        "server": null,
-        "serverId": 290,
-        "testCode": -2,
-        "url": "https://sambd.com/"
-    },
-    {
-        "category": "FTP",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
         "name": "exordonline",
         "server": null,
         "serverId": 291,
         "testCode": -2,
         "url": "http://www.exordonline.com"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "discoverynetbd",
-        "server": null,
-        "serverId": 292,
-        "testCode": -2,
-        "url": "https://www.discoverynetbd.com"
     },
     {
         "category": "MEDIA",
@@ -3475,47 +3007,11 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "antbd",
-        "server": null,
-        "serverId": 296,
-        "testCode": -2,
-        "url": "http://www.antbd.net"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "1netbd",
-        "server": null,
-        "serverId": 297,
-        "testCode": -2,
-        "url": "https://www.1netbd.com"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
         "name": "xpress.ltd",
         "server": null,
         "serverId": 298,
         "testCode": -2,
         "url": "http://xpress.ltd"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "cogentbroadband",
-        "server": null,
-        "serverId": 299,
-        "testCode": -2,
-        "url": "https://www.cogentbroadband.net"
     },
     {
         "category": "FTP",
@@ -3540,18 +3036,6 @@
         "serverId": 301,
         "testCode": -2,
         "url": "http://www.timepassbd.live"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "skyviewonlineltd",
-        "server": null,
-        "serverId": 302,
-        "testCode": -2,
-        "url": "http://skyviewonlineltd.com"
     },
     {
         "category": "MEDIA",
