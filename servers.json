@@ -1,5 +1,5 @@
 {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "server": [
     {
         "category": "MEDIA",
@@ -343,18 +343,6 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "bdixftp",
-        "server": null,
-        "serverId": 37,
-        "testCode": -2,
-        "url": "http://www.bdixftp.com"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
         "name": "ctgfun",
         "server": null,
         "serverId": 38,
@@ -588,18 +576,6 @@
         "serverId": 65,
         "testCode": -2,
         "url": "http://www.moviemela.live"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Movie Server",
-        "server": null,
-        "serverId": 67,
-        "testCode": -2,
-        "url": "http://www.movieserver.net"
     },
     {
         "category": "FTP",
@@ -2736,18 +2712,6 @@
         "serverId": 265,
         "testCode": -2,
         "url": "http://abcflixbd.com/"
-    },
-    {
-        "category": "FTP",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "abcmovies ftp",
-        "server": null,
-        "serverId": 267,
-        "testCode": -2,
-        "url": "http://103.103.239.66/"
     },
     {
         "category": "FTP",
