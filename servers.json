@@ -1,5 +1,5 @@
 {
-    "version": "1.0.6",
+    "version": "1.0.7",
     "server": [
     {
         "category": "MEDIA",
@@ -192,18 +192,6 @@
         "serverId": 20,
         "testCode": -2,
         "url": "http://movies.kloud.com.bd"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Kmn BD",
-        "server": null,
-        "serverId": 21,
-        "testCode": -2,
-        "url": "https://kmnbd.net/"
     },
     {
         "category": "MEDIA",
@@ -415,18 +403,6 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "dhakamovie",
-        "server": null,
-        "serverId": 45,
-        "testCode": -2,
-        "url": "http://dhakamovie.com"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
         "name": "Dnet drive",
         "server": null,
         "serverId": 47,
@@ -607,18 +583,6 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "Put Lockers",
-        "server": null,
-        "serverId": 70,
-        "testCode": -2,
-        "url": "https://www1.putlockers.cafe/"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
         "name": "quickonlineftp",
         "server": null,
         "serverId": 71,
@@ -732,18 +696,6 @@
         "serverId": 81,
         "testCode": -2,
         "url": "http://10.16.100.244"
-    },
-    {
-        "category": "FTP",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Roar Zone",
-        "server": null,
-        "serverId": 82,
-        "testCode": -2,
-        "url": "http://roarzone.info"
     },
     {
         "category": "FTP",
@@ -1524,19 +1476,7 @@
         "serverId": 158,
         "testCode": -2,
         "url": "http://aklivetv.com"
-    },
-    {
-        "category": "WEBTV",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Ditbd livetv",
-        "server": null,
-        "serverId": 159,
-        "testCode": -2,
-        "url": "http://www.ditbd.net/livetv.htm"
-    },
+    }, 
     {
         "category": "WEBTV",
         "description": null,
@@ -1896,18 +1836,6 @@
         "serverId": 192,
         "testCode": -2,
         "url": "http://emby.circleftp.net:8096/"
-    },
-    {
-        "category": "FTP",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Dot Net",
-        "server": null,
-        "serverId": 193,
-        "testCode": -2,
-        "url": "https://ddnbd.com/"
     },
     {
         "category": "FTP",
@@ -2376,18 +2304,6 @@
         "serverId": 235,
         "testCode": -2,
         "url": "http://172.22.22.100/"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "majeda network",
-        "server": null,
-        "serverId": 236,
-        "testCode": -2,
-        "url": "https://www.mazedanetworks.net/media/"
     },
     {
         "category": "FTP",
@@ -2964,18 +2880,6 @@
         "serverId": 295,
         "testCode": -2,
         "url": "http://103.237.37.181"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "xpress.ltd",
-        "server": null,
-        "serverId": 298,
-        "testCode": -2,
-        "url": "http://xpress.ltd"
     },
     {
         "category": "FTP",
