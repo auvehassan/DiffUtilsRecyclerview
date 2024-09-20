@@ -3048,6 +3048,18 @@
         "serverId": 315,
         "testCode": -2,
         "url": "https://www.chorki.com/"
+    },   
+    {
+        "category": "FTP",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "Mango Gamers",
+        "server": null,
+        "serverId": 86,
+        "testCode": -2,
+        "url": "http://cdn.mangogamers.com/Mango%20Gamers/"
     }
     ]
 }
