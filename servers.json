@@ -559,7 +559,7 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "",
+        "name": "timenai",
         "server": null,
         "serverId": 68,
         "testCode": -2,
@@ -743,7 +743,7 @@
         "server": null,
         "serverId": 86,
         "testCode": -2,
-        "url": "http://mangogamers.com/"
+        "url": "http://cdn.mangogamers.com/Mango%20Gamers/"
     },
     {
         "category": "FTP",
@@ -986,12 +986,12 @@
         "url": "http://69.69.69.69"
     },
     {
-        "category": "WEBTV",
+        "category": "FTP",
         "description": null,
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "172.16.50.4",
+        "name": "SAM FTP",
         "server": null,
         "serverId": 109,
         "testCode": -2,
@@ -1855,7 +1855,7 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "Dot Net",
+        "name": "ctg movies",
         "server": null,
         "serverId": 195,
         "testCode": -2,
@@ -2815,11 +2815,11 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "mangogamers",
+        "name": "adharalo",
         "server": null,
         "serverId": 287,
         "testCode": -2,
-        "url": "https://mangogamers.com/"
+        "url": "http://adharalo.com/"
     },
     {
         "category": "FTP",
@@ -2916,6 +2916,150 @@
         "serverId": 303,
         "testCode": -2,
         "url": "http://mybdplex.com/"
+    },
+    {
+        "category": "FTP",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "mojalaw",
+        "server": null,
+        "serverId": 304,
+        "testCode": -2,
+        "url": "http://mojalaw.com/"
+    },
+    {
+        "category": "FTP",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "mojarcinema",
+        "server": null,
+        "serverId": 304,
+        "testCode": -2,
+        "url": "http://mojarcinema.com/"
+    },
+    {
+        "category": "WEBTV",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "mcnbd live",
+        "server": null,
+        "serverId": 304,
+        "testCode": -2,
+        "url": "http://10.254.254.254/"
+    },
+    {
+        "category": "MEDIA",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "applenetbd",
+        "server": null,
+        "serverId": 304,
+        "testCode": -2,
+        "url": "http://103.133.143.18/"
+    },
+    {
+        "category": "FTP",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "applenetbd",
+        "server": null,
+        "serverId": 304,
+        "testCode": -2,
+        "url": "http://172.16.16.50/"
+    },
+    {
+        "category": "WEBTV",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "toffeelive",
+        "server": null,
+        "serverId": 304,
+        "testCode": -2,
+        "url": "https://toffeelive.com/en"
+    },
+    {
+        "category": "WEBTV",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "binge buzz",
+        "server": null,
+        "serverId": 304,
+        "testCode": -2,
+        "url": "https://binge.buzz/"
+    },
+    {
+        "category": "FTP",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "showtime",
+        "server": null,
+        "serverId": 304,
+        "testCode": -2,
+        "url": "http://10.100.100.10/"
+    },
+    {
+        "category": "FTP",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "discovery",
+        "server": null,
+        "serverId": 304,
+        "testCode": -2,
+        "url": "http://cdn1.discoveryftp.net/"
+    },
+    {
+        "category": "FTP",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "fnf",
+        "server": null,
+        "serverId": 304,
+        "testCode": -2,
+        "url": "http://10.10.10.3/"
+    },
+    {
+        "category": "FTP",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "media net",
+        "server": null,
+        "serverId": 304,
+        "testCode": -2,
+        "url": "http://10.1.1.1/"
+    },
+    {
+        "category": "MEDIA",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "chorki",
+        "server": null,
+        "serverId": 304,
+        "testCode": -2,
+        "url": "https://www.chorki.com/"
     }
     ]
 }
