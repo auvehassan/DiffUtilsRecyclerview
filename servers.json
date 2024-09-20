@@ -1,5 +1,5 @@
 {
-    "version": "1.0.8",
+    "version": "1.0.9",
     "server": [
     {
         "category": "MEDIA",
@@ -2937,7 +2937,7 @@
         "mostViewCount": 0,
         "name": "mojarcinema",
         "server": null,
-        "serverId": 304,
+        "serverId": 305,
         "testCode": -2,
         "url": "http://mojarcinema.com/"
     },
@@ -2949,7 +2949,7 @@
         "mostViewCount": 0,
         "name": "mcnbd live",
         "server": null,
-        "serverId": 304,
+        "serverId": 306,
         "testCode": -2,
         "url": "http://10.254.254.254/"
     },
@@ -2961,7 +2961,7 @@
         "mostViewCount": 0,
         "name": "applenetbd",
         "server": null,
-        "serverId": 304,
+        "serverId": 307,
         "testCode": -2,
         "url": "http://103.133.143.18/"
     },
@@ -2973,7 +2973,7 @@
         "mostViewCount": 0,
         "name": "applenetbd",
         "server": null,
-        "serverId": 304,
+        "serverId": 308,
         "testCode": -2,
         "url": "http://172.16.16.50/"
     },
@@ -2985,7 +2985,7 @@
         "mostViewCount": 0,
         "name": "toffeelive",
         "server": null,
-        "serverId": 304,
+        "serverId": 309,
         "testCode": -2,
         "url": "https://toffeelive.com/en"
     },
@@ -2997,7 +2997,7 @@
         "mostViewCount": 0,
         "name": "binge buzz",
         "server": null,
-        "serverId": 304,
+        "serverId": 310,
         "testCode": -2,
         "url": "https://binge.buzz/"
     },
@@ -3009,7 +3009,7 @@
         "mostViewCount": 0,
         "name": "showtime",
         "server": null,
-        "serverId": 304,
+        "serverId": 311,
         "testCode": -2,
         "url": "http://10.100.100.10/"
     },
@@ -3021,7 +3021,7 @@
         "mostViewCount": 0,
         "name": "discovery",
         "server": null,
-        "serverId": 304,
+        "serverId": 312,
         "testCode": -2,
         "url": "http://cdn1.discoveryftp.net/"
     },
@@ -3033,7 +3033,7 @@
         "mostViewCount": 0,
         "name": "fnf",
         "server": null,
-        "serverId": 304,
+        "serverId": 313,
         "testCode": -2,
         "url": "http://10.10.10.3/"
     },
@@ -3045,7 +3045,7 @@
         "mostViewCount": 0,
         "name": "media net",
         "server": null,
-        "serverId": 304,
+        "serverId": 314,
         "testCode": -2,
         "url": "http://10.1.1.1/"
     },
@@ -3057,7 +3057,7 @@
         "mostViewCount": 0,
         "name": "chorki",
         "server": null,
-        "serverId": 304,
+        "serverId": 315,
         "testCode": -2,
         "url": "https://www.chorki.com/"
     }
