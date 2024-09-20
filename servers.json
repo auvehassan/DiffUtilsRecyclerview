@@ -739,18 +739,6 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "Mango Gamers",
-        "server": null,
-        "serverId": 86,
-        "testCode": -2,
-        "url": "http://cdn.mangogamers.com/Mango%20Gamers/"
-    },
-    {
-        "category": "FTP",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
         "name": "Dnet Drive",
         "server": null,
         "serverId": 87,
