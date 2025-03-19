@@ -1,5 +1,5 @@
 {
-    "version": "1.0.9",
+    "version": "1.1.0",
     "server": [
     {
         "category": "MEDIA",
@@ -144,18 +144,6 @@
         "serverId": 14,
         "testCode": -2,
         "url": "http://tv.mymoviebazar.com/"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "http://103.91.144.230/images/logo.png",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Tokis",
-        "server": null,
-        "serverId": 15,
-        "testCode": -2,
-        "url": "http://tokis.xyz/"
     },
     {
         "category": "MEDIA",
@@ -463,18 +451,6 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "Join4films",
-        "server": null,
-        "serverId": 55,
-        "testCode": -2,
-        "url": "http://www.join4films.com/"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
         "name": "Kiss Anime",
         "server": null,
         "serverId": 56,
@@ -540,18 +516,6 @@
         "serverId": 64,
         "testCode": -2,
         "url": "http://59.152.96.75/"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Movie Mela",
-        "server": null,
-        "serverId": 65,
-        "testCode": -2,
-        "url": "http://www.moviemela.live"
     },
     {
         "category": "FTP",
@@ -3060,6 +3024,42 @@
         "serverId": 317,
         "testCode": -2,
         "url": "http://cdn.mangogamers.com/Mango%20Gamers/"
+    },   
+    {
+        "category": "Media",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "Towkai",
+        "server": null,
+        "serverId": 318,
+        "testCode": -2,
+        "url": "http://mm.towkai.com/"
+    },   
+    {
+        "category": "Media",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "Towkai",
+        "server": null,
+        "serverId": 319,
+        "testCode": -2,
+        "url": "http://116.204.149.15/"
+    },   
+    {
+        "category": "WebTV",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "Towkai Live TV",
+        "server": null,
+        "serverId": 320,
+        "testCode": -2,
+        "url": "http://116.204.149.15/live-tv.html"
     }
     ]
 }
