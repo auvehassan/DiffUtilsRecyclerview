@@ -1,5 +1,5 @@
 {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "server": [
     {
         "category": "MEDIA",
@@ -3060,6 +3060,18 @@
         "serverId": 320,
         "testCode": -2,
         "url": "http://116.204.149.15/live-tv.html"
+    },   
+    {
+        "category": "FTP",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "circle ftp",
+        "server": null,
+        "serverId": 321,
+        "testCode": -2,
+        "url": "https://circleftp.net/"
     }
     ]
 }
