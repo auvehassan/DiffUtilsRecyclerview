@@ -254,18 +254,6 @@
         "url": "http://evonetbd.com/"
     },
     {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "http://funtimebd.com/images/logo.png",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "funtimebd",
-        "server": null,
-        "serverId": 31,
-        "testCode": -2,
-        "url": "http://funtimebd.com/"
-    },
-    {
         "category": "WEBTV",
         "description": null,
         "icon": "",
@@ -1056,18 +1044,6 @@
         "serverId": 119,
         "testCode": -2,
         "url": "http://45.250.20.19"
-    },
-    {
-        "category": "WEBTV",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "BD Speed",
-        "server": null,
-        "serverId": 121,
-        "testCode": -2,
-        "url": "http://funtimebd.com"
     },
     {
         "category": "WEBTV",
