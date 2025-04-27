@@ -1,5 +1,5 @@
 {
-    "version": "1.1.3",
+    "version": "1.1.4",
     "server": [
     {
         "category": "MEDIA",
@@ -1428,18 +1428,6 @@
         "serverId": 162,
         "testCode": -2,
         "url": "http://bdiptv.stream/live-tv.html"
-    },
-    {
-        "category": "WEBTV",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Zero 4 anytime",
-        "server": null,
-        "serverId": 164,
-        "testCode": -2,
-        "url": "http://zero4.anytv.live/"
     },
     {
         "category": "WEBTV",
