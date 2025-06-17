@@ -1,5 +1,5 @@
 {
-    "version": "1.1.4",
+    "version": "1.1.5",
     "server": [
     {
         "category": "MEDIA",
@@ -3036,6 +3036,18 @@
         "serverId": 322,
         "testCode": -2,
         "url": "http://flix.11plus.live/"
+    },   
+    {
+        "category": "MEDIA",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "AsianREV Drama",
+        "server": null,
+        "serverId": 323,
+        "testCode": -2,
+        "url": "https://AsianREV.fun"
     }
     ]
 }
