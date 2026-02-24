@@ -1,5 +1,5 @@
 {
-    "version": "1.1.5",
+    "version": "1.1.6",
     "server": [
     {
         "category": "MEDIA",
@@ -1835,7 +1835,7 @@
         "server": null,
         "serverId": 201,
         "testCode": -2,
-        "url": "http://cds1.discoveryftp.net"
+        "url": "https://cds1.discoveryftp.net"
     },
     {
         "category": "FTP",
@@ -1847,7 +1847,7 @@
         "server": null,
         "serverId": 202,
         "testCode": -2,
-        "url": "http://cds2.discoveryftp.net"
+        "url": "https://cds2.discoveryftp.net"
     },
     {
         "category": "FTP",
@@ -1859,7 +1859,7 @@
         "server": null,
         "serverId": 203,
         "testCode": -2,
-        "url": "http://cds3.discoveryftp.net"
+        "url": "https://cds3.discoveryftp.net"
     },
     {
         "category": "FTP",
@@ -2927,7 +2927,7 @@
         "server": null,
         "serverId": 312,
         "testCode": -2,
-        "url": "http://cdn1.discoveryftp.net/"
+        "url": "https://cdn1.discoveryftp.net/"
     },
     {
         "category": "FTP",
@@ -3048,6 +3048,126 @@
         "serverId": 323,
         "testCode": -2,
         "url": "https://AsianREV.fun"
+    },   
+    {
+        "category": "MEDIA",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "Bas Play",
+        "server": null,
+        "serverId": 324,
+        "testCode": -2,
+        "url": "http://10.20.30.40"
+    },   
+    {
+        "category": "MEDIA",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "Dhaka Flix",
+        "server": null,
+        "serverId": 325,
+        "testCode": -2,
+        "url": "http://172.16.50.4"
+    },   
+    {
+        "category": "MEDIA",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "Circle FTP",
+        "server": null,
+        "serverId": 326,
+        "testCode": -2,
+        "url": "http://15.1.1.3"
+    },   
+    {
+        "category": "MEDIA",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "New Circle FTP",
+        "server": null,
+        "serverId": 327,
+        "testCode": -2,
+        "url": "http://new.circleftp.net"
+    },   
+    {
+        "category": "FTP",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "Circle FTP",
+        "server": null,
+        "serverId": 328,
+        "testCode": -2,
+        "url": "http://ftp5.circleftp.net"
+    },   
+    {
+        "category": "MEDIA",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "DFLIX Movies",
+        "server": null,
+        "serverId": 329,
+        "testCode": -2,
+        "url": "https://movies.discoveryftp.net"
+    },   
+    {
+        "category": "FTP",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "BAS FTP",
+        "server": null,
+        "serverId": 330,
+        "testCode": -2,
+        "url": "http://10.20.30.40/hub.php"
+    },   
+    {
+        "category": "WEBTV",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "BASNET TV1",
+        "server": null,
+        "serverId": 331,
+        "testCode": -2,
+        "url": "http://10.99.99.99/"
+    },   
+    {
+        "category": "WEBTV",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "BASNET TV2",
+        "server": null,
+        "serverId": 332,
+        "testCode": -2,
+        "url": "http://10.10.10.2"
+    },   
+    {
+        "category": "WEBTV",
+        "description": null,
+        "icon": "",
+        "isFavorite": false,
+        "mostViewCount": 0,
+        "name": "BASNET TV3",
+        "server": null,
+        "serverId": 333,
+        "testCode": -2,
+        "url": "http://172.27.27.200"
     }
     ]
 }
