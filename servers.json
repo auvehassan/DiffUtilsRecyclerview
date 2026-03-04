@@ -1,5 +1,5 @@
 {
-    "version": "1.1.6",
+    "version": "1.1.7",
     "server": [
     {
         "category": "MEDIA",
@@ -124,18 +124,6 @@
     {
         "category": "MEDIA",
         "description": null,
-        "icon": "http://103.91.144.230/images/logo.png",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Unique",
-        "server": null,
-        "serverId": 13,
-        "testCode": -2,
-        "url": "http://103.91.144.230/"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
@@ -144,18 +132,6 @@
         "serverId": 14,
         "testCode": -2,
         "url": "http://tv.mymoviebazar.com/"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Flix Jar",
-        "server": null,
-        "serverId": 17,
-        "testCode": -2,
-        "url": "https://www.flixjar.com/"
     },
     {
         "category": "MEDIA",
@@ -799,35 +775,11 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "Bit Net BD",
-        "server": null,
-        "serverId": 97,
-        "testCode": -2,
-        "url": "http://dl.bitnetbd.com/"
-    },
-    {
-        "category": "FTP",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
         "name": "Barua",
         "server": null,
         "serverId": 98,
         "testCode": -2,
         "url": "http://12.1.1.1"
-    },
-    {
-        "category": "FTP",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Barnali",
-        "server": null,
-        "serverId": 99,
-        "testCode": -2,
-        "url": "http://103.112.63.21"
     },
     {
         "category": "FTP",
@@ -888,18 +840,6 @@
         "serverId": 106,
         "testCode": -2,
         "url": "http://172.16.50.22"
-    },
-    {
-        "category": "FTP",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Amar BD",
-        "server": null,
-        "serverId": 107,
-        "testCode": -2,
-        "url": "http://amarbd.com/"
     },
     {
         "category": "FTP",
@@ -1315,18 +1255,6 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "BDTV Live",
-        "server": null,
-        "serverId": 151,
-        "testCode": -2,
-        "url": "http://bdtv.live"
-    },
-    {
-        "category": "WEBTV",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
         "name": "Movie Bazar",
         "server": null,
         "serverId": 152,
@@ -1428,18 +1356,6 @@
         "serverId": 162,
         "testCode": -2,
         "url": "http://bdiptv.stream/live-tv.html"
-    },
-    {
-        "category": "WEBTV",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Amaze TV",
-        "server": null,
-        "serverId": 165,
-        "testCode": -2,
-        "url": "http://www.amaze-tv.com/"
     },
     {
         "category": "WEBTV",
@@ -2810,18 +2726,6 @@
         "url": "http://www.timepassbd.live"
     },
     {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "mybdplex",
-        "server": null,
-        "serverId": 303,
-        "testCode": -2,
-        "url": "http://mybdplex.com/"
-    },
-    {
         "category": "FTP",
         "description": null,
         "icon": "",
@@ -2964,18 +2868,6 @@
         "serverId": 315,
         "testCode": -2,
         "url": "https://www.chorki.com/"
-    },   
-    {
-        "category": "FTP",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Mango Gamers",
-        "server": null,
-        "serverId": 317,
-        "testCode": -2,
-        "url": "http://cdn.mangogamers.com/Mango%20Gamers/"
     },   
     {
         "category": "Media",
