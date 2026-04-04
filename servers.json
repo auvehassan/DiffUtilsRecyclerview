@@ -1,5 +1,5 @@
 {
-    "version": "1.1.7",
+    "version": "1.1.8",
     "server": [
     {
         "category": "MEDIA",
@@ -2438,18 +2438,6 @@
         "url": "http://ctgoz.com/"
     },
     {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "abcflixbd",
-        "server": null,
-        "serverId": 265,
-        "testCode": -2,
-        "url": "http://abcflixbd.com/"
-    },
-    {
         "category": "FTP",
         "description": null,
         "icon": "",
@@ -2556,18 +2544,6 @@
         "serverId": 279,
         "testCode": -2,
         "url": "http://103.14.27.182/"
-    },
-    {
-        "category": "FTP",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "onbdix",
-        "server": null,
-        "serverId": 280,
-        "testCode": -2,
-        "url": "http://onbdix.com/"
     },
     {
         "category": "MEDIA",
