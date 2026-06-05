@@ -1,5 +1,5 @@
 {
-    "version": "1.1.8",
+    "version": "1.1.9",
     "server": [
     {
         "category": "MEDIA",
@@ -156,18 +156,6 @@
         "serverId": 20,
         "testCode": -2,
         "url": "http://movies.kloud.com.bd"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Mega Flix",
-        "server": null,
-        "serverId": 22,
-        "testCode": -2,
-        "url": "http://megaflix.tv/"
     },
     {
         "category": "MEDIA",
@@ -355,18 +343,6 @@
         "icon": "",
         "isFavorite": false,
         "mostViewCount": 0,
-        "name": "Dnet drive",
-        "server": null,
-        "serverId": 47,
-        "testCode": -2,
-        "url": "https://dnetdrive.com/movies/"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
         "name": "Elaach",
         "server": null,
         "serverId": 48,
@@ -456,18 +432,6 @@
         "serverId": 62,
         "testCode": -2,
         "url": "https://mojaloss.net"
-    },
-    {
-        "category": "MEDIA",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "59.152.96.75",
-        "server": null,
-        "serverId": 64,
-        "testCode": -2,
-        "url": "http://59.152.96.75/"
     },
     {
         "category": "FTP",
@@ -648,18 +612,6 @@
         "serverId": 85,
         "testCode": -2,
         "url": "http://server1.ftpbd.net/"
-    },
-    {
-        "category": "FTP",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Dnet Drive",
-        "server": null,
-        "serverId": 87,
-        "testCode": -2,
-        "url": "https://dnetdrive.com"
     },
     {
         "category": "FTP",
@@ -1392,18 +1344,6 @@
         "serverId": 169,
         "testCode": -2,
         "url": "http://dugdugilive.com"
-    },
-    {
-        "category": "WEBTV",
-        "description": null,
-        "icon": "",
-        "isFavorite": false,
-        "mostViewCount": 0,
-        "name": "Powernet bd",
-        "server": null,
-        "serverId": 170,
-        "testCode": -2,
-        "url": "http://tv.powernetbd.com"
     },
     {
         "category": "WEBTV",
